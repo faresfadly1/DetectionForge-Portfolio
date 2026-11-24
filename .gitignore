@@ -1,0 +1,14 @@
+# Publish only the explicitly reviewed showcase documents and assets.
+/*
+!/.gitignore
+!/README.md
+!/DEVELOPMENT.md
+!/assets/
+/assets/*
+!/assets/SOURCES.md
+!/assets/architecture-flow.png
+!/assets/architecture-flow.svg
+!/assets/dashboard-light.png
+!/assets/dashboard-dark.png
+!/assets/detection-center.png
+!/assets/testing-lab.png
